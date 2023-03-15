@@ -1,0 +1,42 @@
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.psess
+*.dbmdl
+*.VC.db
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+bin/
+obj/
+
+# NuGet packages
+packages/
+*.nupkg
+*.snupkg
+*.nuspec
+
+# Other generated files
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# Misc
+Thumbs.db
+Desktop.ini
+
+# ASP.NET specific
+*.sln.ide
+*.csproj.ide
+*.sln.DotSettings
+*.suo
+*.sln.docstates.suo
+*.suo.user
+*.v11.suo
+*.v12.suo
+*.v14.suo
+*.sdf
+*.mdf
+*.ldf
